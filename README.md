@@ -18,7 +18,6 @@ An advanced, AI-powered image generator built using **Stable Diffusion**. This p
 ### **Backend:**
 - **[Python](https://www.python.org/)**: Used for backend server-side logic.
 - **[Flask](https://flask.palletsprojects.com/)**: Lightweight web framework for API handling.
-- **[Stable Diffusion](https://huggingface.co/docs/diffusers/main/en/pipelines/stable_diffusion)**: AI image generation model.
 - **[PyTorch](https://pytorch.org/)**: Deep learning framework used for model execution.
 - **[Flask-CORS](https://flask-cors.readthedocs.io/en/latest/)**: For handling Cross-Origin Resource Sharing (CORS).
 
