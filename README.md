@@ -1,6 +1,6 @@
 # **AI Image Generator using Together Ai & Flux**
 
-An advanced, AI-powered image generator built using **Stable Diffusion**. This project leverages cutting-edge technology to create stunning AI-generated images from text prompts. With customizable parameters and an intuitive interface, users can generate images for various themes such as Fantasy, Sci-Fi, Nature, Artistic, and more.
+MindSketch.Ai is an open-source, real-time AI image generator powered by Together.ai, designed for seamless and high-quality image creation. It enables users to generate stunning visuals instantly, making AI-driven creativity more accessible and efficient. With customizable parameters and an intuitive interface, users can generate images for various themes such as Fantasy, Sci-Fi, Nature, Artistic, and more.
 
 ## **Features**
 
