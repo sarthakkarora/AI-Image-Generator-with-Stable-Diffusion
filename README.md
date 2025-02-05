@@ -24,6 +24,5 @@ This project is currently under development, with core features being built and 
 ## Roadmap
 
 - [ ] **Beta Version Release**: Initial public testing phase.
-- [ ] **Mobile App Support**: Develop a mobile version for iOS and Android.
 - [ ] **AI Algorithm Optimization**: Improve sketch accuracy and speed.
 
