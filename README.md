@@ -1,6 +1,6 @@
 
 
-# MindSketch.Ai
+# MindSketch
 
 **MindSketch.Ai** is an innovative AI-powered tool designed to enhance creative brainstorming and idea development. The project aims to leverage the power of artificial intelligence to help users visualize their thoughts and concepts in a dynamic and intuitive way.
 
